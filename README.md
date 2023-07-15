@@ -1,6 +1,6 @@
 ## Hello! I'm Ailton Devesse.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ailtondevesse&bg_color=0d1117&color=01407B&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ailtondevesse&bg_color=0d1117&color=01407B&line=2872A6&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
