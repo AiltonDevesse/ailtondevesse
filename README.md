@@ -13,7 +13,7 @@
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ailtondevesse&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ailtondevesse&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div> 
