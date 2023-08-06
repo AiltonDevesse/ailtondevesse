@@ -12,6 +12,7 @@
 ![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ailtondevesse&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
